@@ -16,7 +16,7 @@ This project focuses on the design and implementation of a secure university net
 ## Getting Started
 
 To explore our project:
-1. Clone this repository: `git clone https://github.com/your-username/university-network-project.git`
+1. Clone this repository: `git clone https://github.com/hirenkumarppatel/PacketTracerSBU.git`
 
 ## Contributions
 

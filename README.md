@@ -4,7 +4,7 @@ Welcome to our University Network Project repository!
 
 ## Overview
 
-This project focuses on the design and implementation of a secure university network infrastructure using Cisco Packet Tracer. Our objective is to provide hands-on experience in network architecture while ensuring robust security measures.
+This project focuses on the design and implementation of a secure university network infrastructure using Cisco Packet Tracer. Our objective is to learn hands-on experience in network architecture while ensuring robust security measures.
 
 ## Key Features
 
